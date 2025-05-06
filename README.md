@@ -2,8 +2,10 @@
 
 
 VHS Rental Business Intelligence Dashboard
+
 Contributor: Pavel Nokinov
 Project Type: Power BI Dashboard Development
+
 Tools Used: Power BI, DAX, SQL (Sakila Database)
 
 Project Summary
